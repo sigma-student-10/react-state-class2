@@ -1,0 +1,16 @@
+.Form {
+    margin-top: 50px;
+    border: 2px solid hotpink;
+}
+
+.input {
+    margin-top: 20px;
+    border: 2px solid rgb(244, 8, 8);
+    border-radius: 5px;
+    background-color: rgb(103, 87, 87);
+}
+
+.btn {
+    margin-bottom: 20px;
+    border: 1px solid pink;
+}
